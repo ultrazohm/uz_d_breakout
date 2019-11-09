@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UltraZohm_Digital_BreakoutBoard.PcbDoc   12.02.2019  12:42:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UltraZohm_Digital_BreakoutBoard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             20        PTH        2.90inch (73.67mm)
+T2      20mil (0.5mm)                                             Round             3         PTH        0.22inch (5.63mm)
+T3      40mil (1.016mm)                                           Round             72        PTH        7.30inch (185.55mm)
+T4      43mil (1.09mm)                                            Round             50        PTH        5.39inch (136.88mm)
+T5      128mil (3.26mm)                                           Round             2         PTH        2.41inch (61.11mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              147
+
+Total Processing Time (hh:mm:ss) : 00:00:01
